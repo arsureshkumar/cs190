@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+}
+p {
+    font-family: 'Calibri';
+}
+h1 {
+    background-color: #7c83bc;
+}
+table{
+    font-family: 'Calibri';
+    border: 1px solid black;
+}
+th{
+    text-align: 'center';
+}
+button{
+    padding: 15px;
+}
+#menu300{
+    box-align: 'center';
+}
